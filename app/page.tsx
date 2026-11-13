@@ -31,7 +31,7 @@ export default function Page() {
       <section className="hero" id="top">
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-line" /> ENERGY &amp; EQUITY <span className="eyebrow-index">01 / 01</span></p>
-          <h1>Powering a more<br /><em>connected</em> India.</h1>
+          <h1>India’s electricity access gap narrowed by 24.09 percentage points</h1>
           <p className="hero-description">A decade of progress in electricity access—and the distance between rural and urban India that remains.</p>
           <a className="dashboard-link" href={dashboardUrl} target="_blank" rel="noreferrer">Explore the interactive dashboard <span aria-hidden="true">↗</span></a>
           <p className="link-caption">Historical World Bank SE4ALL figures · 2010–2020</p>
