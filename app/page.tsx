@@ -58,7 +58,7 @@ export default function Page() {
         </article>
       </section>
 
-      <footer className="site-footer"><span>PROJECT BY <strong>VICTOR JOHN CLEMENT BEERA</strong></span><span>INDIA · ELECTRICITY ACCESS · 2010—2020</span><a href={dashboardUrl} target="_blank" rel="noreferrer">OPEN DASHBOARD ↗</a></footer>
+      <footer className="site-footer"><span>PROJECT BY <strong>VICTOR JOHN CLEMENT BEERA</strong></span><span>INDIA · ELECTRICITY ACCESS · 2010—2020</span><a href="https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=IN" target="_blank" rel="noreferrer">Source: World Bank electricity access data ↗</a><a href={dashboardUrl} target="_blank" rel="noreferrer">OPEN DASHBOARD ↗</a></footer>
     </main>
   )
 }
