@@ -32,7 +32,7 @@ export default function Page() {
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-line" /> ENERGY &amp; EQUITY <span className="eyebrow-index">01 / 01</span></p>
           <h1>India’s electricity access gap narrowed by 24.09 percentage points</h1>
-          <p className="hero-description">A decade of progress in electricity access—and the distance between rural and urban India that remains.</p>
+          <p className="hero-description">Rural electricity access rose from 68.37% to 98.46% between 2010 and 2020.</p>
           <a className="dashboard-link" href={dashboardUrl} target="_blank" rel="noreferrer">Explore the interactive dashboard <span aria-hidden="true">↗</span></a>
           <p className="link-caption">Historical World Bank SE4ALL figures · 2010–2020</p>
         </div>
